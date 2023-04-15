@@ -4,7 +4,7 @@ PylarVoice-Public
 - [Real case article + audio](https://www.miguelgargallo.com/blog/three-js-javascript)
 - [Final audio](https://github.com/superdatas/blog-audios/blob/main/three-js-javascript.wav)
 
-<a href="https://github.com/your-username/your-repository-name" target="_blank" rel="noopener noreferrer"><button>View on GitHub</button></a>
+<a href="https://colab.research.google.com/drive/1EY5JUPRYX1ZQfwCbQj3ohURRQWj-NqZP?usp=sharing" target="_blank" rel="noopener noreferrer"><button style="background-image: url('your-image-url-here'); background-repeat: no-repeat; background-size: contain; padding-left: 30px;">Open in Google Colab</button></a>
 
 ## Pylar AI creative ML License 0.0.4
 
